@@ -1,5 +1,13 @@
 # 📊 Dashboard & Analysis Preview
 
+## 📥 Download Power BI Dashboard
+
+The complete interactive Power BI dashboard is available below:
+
+👉 **[Download / Open Power BI Report (.pbix)](https://drive.google.com/file/d/1InmSyEYtuxAyssVnfWJcfCWNIgi-QRzR/view?usp=drive_link)**
+
+---
+
 ## 🏦 Power BI Dashboard
 
 The interactive Power BI dashboard provides a comprehensive overview of the bank loan portfolio, including key performance indicators, loan quality, funding, repayment, and filtering options.
